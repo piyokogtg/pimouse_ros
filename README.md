@@ -3,3 +3,5 @@
 # pimouse_ros
 
 「Raspberry Piで学ぶ ROSロボット入門」の6章から9章までのプログラムです。このリポジトリで、原稿完成後に動作検証を行いました。
+# pimouse_ros
+pimouse_ros scripts
